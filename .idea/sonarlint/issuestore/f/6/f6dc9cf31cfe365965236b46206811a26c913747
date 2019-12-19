@@ -1,0 +1,12 @@
+
+dsquid:S1192"HDefine a constant instead of duplicating this literal "integer" 4 times.(Ñ¯âşûÿÿÿÿ
+csquid:S1192*"GDefine a constant instead of duplicating this literal "substr" 3 times.(Ø•Èéûÿÿÿÿ
+Usquid:S3400;"9Remove this method and declare a constant for this value.(ò«§®ıÿÿÿÿ
+Psquid:S3400?"9Remove this method and declare a constant for this value.(ô‡¼
+rsquid:CallToDeprecatedMethodB"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ÙšÌé
+Qsquid:S1161B":Add the "@Override" annotation above this method signature(ÙšÌé
+rsquid:CallToDeprecatedMethodF"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(„¦Ü°
+Qsquid:S1161F":Add the "@Override" annotation above this method signature(„¦Ü°
+Usquid:S3400R"9Remove this method and declare a constant for this value.(É—±æÿÿÿÿÿ
+gsquid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(áÖ–ùúÿÿÿÿ
+bsquid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(¹²ÏÒ
