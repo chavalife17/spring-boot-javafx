@@ -24,3 +24,4 @@ hs_err_pid*
 /spring-boot-javafx.iml
 /.idea/
 /javafx/.mvn/wrapper/
+/.idea/
